@@ -1,6 +1,6 @@
 # Lector de Código de Barras
 
-Appp que permite escanear cualquier código de barras para obtener información adicional de cualquier producto.
+App que permite escanear cualquier código de barras para obtener información adicional de cualquier producto.
 
 ¡Es 100 % GRATIS!
 
@@ -12,11 +12,11 @@ Descargo de responsabilidad:
 Seleccionar la aplicación **Lector**<br><br>
 <img src="imgDocumentacion/pantalla1.png" alt=""  width="288" align="middle">
 <br><br>
-Se abre la interfaz de la aplicación donde podemos pulsar el *botón ESCANERA*
+Se abre la interfaz de la aplicación donde podemos pulsar el *botón* **ESCANERA**
 <br><br>
 <img src="imgDocumentacion/pantalla2.png" alt=""  width="288" align="middle">
 
-Se abrira el lector de código de barras para escanear cualquier código
+Se abrirá el lector de código de barras para escanear cualquier código
 <br><br>
 <img src="imgDocumentacion/pantalla3.png" alt="" width="512" align="middle">
 <br><br>
@@ -24,4 +24,4 @@ Una vez que lea el código de barras se presentara en pantalla el valor del cód
 <br><br>
 <img src="imgDocumentacion/pantalla4.png" alt="" width="288" align="middle">
 <br><br>
-Si pulsamos el *botón SALIR* la aplicación se cerrara
+Si pulsamos el *botón* **SALIR** la aplicación se cerrara
