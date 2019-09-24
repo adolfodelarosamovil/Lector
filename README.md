@@ -14,14 +14,14 @@ Seleccionar la aplicación **Lector**<br><br>
 <br><br>
 Se abre la interfaz de la aplicación donde podemos pulsar el *botón ESCANERA*
 <br><br>
-<img src="imgDocumentacion/pantalla2.png" alt=""  width="144" align="middle">
+<img src="imgDocumentacion/pantalla2.png" alt=""  width="288" align="middle">
 
 Se abrira el lector de código de barras para escanear cualquier código
 <br><br>
-<img src="imgDocumentacion/pantalla3.png" alt="" width="256" align="middle">
+<img src="imgDocumentacion/pantalla3.png" alt="" width="512" align="middle">
 <br><br>
 Una vez que lea el código de barras se presentara en pantalla el valor del código
 <br><br>
-<img src="imgDocumentacion/pantalla4.png" alt="" width="144" align="middle">
+<img src="imgDocumentacion/pantalla4.png" alt="" width="288" align="middle">
 <br><br>
 Si pulsamos el *botón SALIR* la aplicación se cerrara
