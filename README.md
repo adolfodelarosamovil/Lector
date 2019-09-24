@@ -10,4 +10,3 @@ Descargo de responsabilidad:
 
 <img src="imgDocumentacion/pantalla1.png" alt="" >
 
-    
