@@ -9,16 +9,19 @@ Descargo de responsabilidad:
 
 ## Ejecutar la aplicación
 
-Seleccionar la aplicación **Lector**
-<img src="imgDocumentacion/pantalla1.png" alt=""  width="288">
-
+Seleccionar la aplicación **Lector**<br><br>
+<img src="imgDocumentacion/pantalla1.png" alt=""  width="288" align="middle">
+<br><br>
 Se abre la interfaz de la aplicación donde podemos pulsar el *botón ESCANERA*
-<img src="imgDocumentacion/pantalla2.png" alt=""  width="144">
+<br><br>
+<img src="imgDocumentacion/pantalla2.png" alt=""  width="144" align="middle">
 
 Se abrira el lector de código de barras para escanear cualquier código
-<img src="imgDocumentacion/pantalla3.png" alt="" width="256">
-
+<br><br>
+<img src="imgDocumentacion/pantalla3.png" alt="" width="256" align="middle">
+<br><br>
 Una vez que lea el código de barras se presentara en pantalla el valor del código
-<img src="imgDocumentacion/pantalla4.png" alt="" width="144">
-
+<br><br>
+<img src="imgDocumentacion/pantalla4.png" alt="" width="144" align="middle">
+<br><br>
 Si pulsamos el *botón SALIR* la aplicación se cerrara
