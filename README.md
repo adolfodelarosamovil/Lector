@@ -8,5 +8,5 @@ Descargo de responsabilidad:
 * Esta aplicación se basa en el proyecto de código de barras escáner ZXing abierto. Apache License 2.0.
 
 
-<img src="imgDocumentacion/pantalla1" alt=""  width="144">
+<img src="imgDocumentacion/pantalla1" alt="">
 
