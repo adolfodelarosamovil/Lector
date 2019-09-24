@@ -10,8 +10,3 @@ Descargo de responsabilidad:
 
 <img src="imgDocumentacion/pantalla1" alt=""  width="144">
 
-<img src="imgDocumentacion/pantalla2" alt=""  width="144">
-
-<img src="imgDocumentacion/pantalla3" alt="" width="256">
-
-<img src="imgDocumentacion/pantalla4" alt="" width="144">
